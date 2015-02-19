@@ -1,0 +1,38 @@
+{
+  "ProjectName": "Clinical Trial Demo",
+  "ProjectGuid": "a7277f78-a4b4-4932-b52e-8f43c77221d9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ClinicalTrialDemo",
+  "DisplayName": "Clinical Trial Demo",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5677c4e4-4905-4769-86d3-145322472f90}",
+  "WP8ProductID": "{1118b07b-2ea6-4a2a-8355-ae155a26569f}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
