@@ -1,0 +1,20 @@
+<div data-role="view"
+    id="homeView"
+    data-title="Studies Home"
+    data-layout="main"
+    data-model="ctd.home.viewModel"
+    data-init="ctd.home.viewModel.init">
+
+    <header data-role="header">
+        <div data-role="navbar">
+            <span>Studies Home</span>
+            <input id="study-filter-switch" type="checkbox" 
+                data-role="switch" checked="checked" data-on-label="PRT" 
+                data-off-label="ALL" data-align="right" 
+                data-change="ctd.home.viewModel.toggleFilter" />
+        </div>
+    </header>
+
+    <div id="studies-grid"></div>
+
+</div>

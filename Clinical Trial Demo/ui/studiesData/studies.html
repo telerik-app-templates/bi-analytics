@@ -1,0 +1,42 @@
+<div data-role="view"
+    id="study-detail-view" 
+    data-model="ctd.studies.viewModel"
+    data-show="ctd.studies.viewModel.show"
+    data-title="Active Sites" 
+    data-layout="detail-layout">
+    <div style="margin: 5px">
+        <div id="active-chart">
+        </div>
+    </div>
+</div>
+
+<div data-role="view" id="enrolled-site-view" data-model="ctd.studies.viewModel" data-title="Enrolled Sites" data-layout="detail-layout">
+    <div style="margin: 5px">
+        <div id="enrollment-chart">
+        </div>
+    </div>
+</div>
+
+<div data-role="view" id="patient-progress-view" data-model="ctd.studies.viewModel" data-title="Patient Progress" data-layout="detail-layout">
+    <div style="margin: 5px">
+        <div id="patient-chart">
+        </div>
+    </div>
+</div>
+
+<div data-role="layout" data-id="detail-layout">
+    <header data-role="header">
+        <div data-role="navbar">
+            <span data-role="view-title"></span>
+            <a data-role="button" href="#homeView" data-align="left">Back</a>
+        </div>
+    </header>
+
+    <div data-role="footer">
+        <div data-role="tabstrip">
+            <a href="#study-detail-view">Active Sites</a>
+            <a href="#enrolled-site-view">Enrolled Sites</a>
+            <a href="#patient-progress-view">Patient Progress</a>
+        </div>
+    </div>
+</div>
