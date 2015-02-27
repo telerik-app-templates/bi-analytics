@@ -61,6 +61,7 @@
     <Content Include="kendo\styles\kendo.mobile.flat.min.css" />
     <Content Include="kendo\typescript\jquery.d.ts" />
     <Content Include="kendo\typescript\kendo.mobile.d.ts" />
+    <Content Include="shared\localData\chartData.js" />
     <Content Include="shared\localData\studyData.js" />
     <Content Include="shared\models\studyModel.js" />
     <Content Include="ui\home\homeViewModel.js" />
