@@ -1,0 +1,3411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200784</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet</Description>
+      <Director>Elizabeth Wood</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Bailey Hughes</Manager>
+      <Patients>54</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2023-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>08507</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>55</StudyDuration>
+      <StudyId>PSV_98</StudyId>
+      <StudyPatientCap>120</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2007795</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex al</Description>
+      <Director>Christian Allen</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Annabelle Jones</Manager>
+      <Patients>81</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2017-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>83973</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>55</StudyDuration>
+      <StudyId>GUH_3</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Pre-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2000572</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat</Description>
+      <Director>Leah Reed</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Savannah Thompson</Manager>
+      <Patients>58</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2019-01-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>34966</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>59</StudyDuration>
+      <StudyId>XLP_84</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Post-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200492</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fu</Description>
+      <Director>Sydney Rogers</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Liam Wilson</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>5033</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>WH_34</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>20020</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et</Description>
+      <Director>Xavier Taylor</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Tyler undefined</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>83556</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>72</StudyDuration>
+      <StudyId>VLZ_3</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200858</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Cura</Description>
+      <Director>Julia Lewis</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Alexander Kelly</Manager>
+      <Patients>135</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>60223</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>46</StudyDuration>
+      <StudyId>XK_42</StudyId>
+      <StudyPatientCap>300</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2002069</Code>
+      <Description>Lorem ipsum</Description>
+      <Director>Austin Foster</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Jeremiah Barnes</Manager>
+      <Patients>58</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>20223</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>62</StudyDuration>
+      <StudyId>IOX_35</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2000743</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odi</Description>
+      <Director>William Williams</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Nathaniel Gutierrez</Manager>
+      <Patients>135</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2024-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>8608</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>UUF_82</StudyId>
+      <StudyPatientCap>300</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Exploratory Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200529</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</Description>
+      <Director>Samantha Howard</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Brooke Reed</Manager>
+      <Patients>76</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2019-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>9606</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StudyDuration>72</StudyDuration>
+      <StudyId>GSD_49</StudyId>
+      <StudyPatientCap>170</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Pre-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2002463</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestib</Description>
+      <Director>Brayden Cox</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Brody Nguyen</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2015-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>45478</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>39</StudyDuration>
+      <StudyId>LZO_82</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>200704</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere c</Description>
+      <Director>Isaac Gomez</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Peyton Reed</Manager>
+      <Patients>99</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>45720</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>38</StudyDuration>
+      <StudyId>OJN_30</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2005389</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit</Description>
+      <Director>Jasmine Allen</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Eleanor Powell</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2024-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>27728</RecordId>
+      <Status>FINAL DATA SET</Status>
+      <StudyDuration>67</StudyDuration>
+      <StudyId>QDB_45</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2004440</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet</Description>
+      <Director>Amelia Ortiz</Director>
+      <Division>ID</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Zoe Walker</Manager>
+      <Patients>94</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>48570</RecordId>
+      <Status>CLOSED</Status>
+      <StudyDuration>55</StudyDuration>
+      <StudyId>BVL_7</StudyId>
+      <StudyPatientCap>210</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>200266</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magn</Description>
+      <Director>Dominic Young</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Eva Hill</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>986</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>BEK_02</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200287</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</Description>
+      <Director>Savannah Baker</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Zachary Scott</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>58473</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>43</StudyDuration>
+      <StudyId>ZWI_06</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2004255</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam</Description>
+      <Director>Leo Lewis</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Brooklyn Wood</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>20866</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>58</StudyDuration>
+      <StudyId>NI_54</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2009585</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus mag</Description>
+      <Director>Makayla Wright</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Jace Wilson</Manager>
+      <Patients>148</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2017-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>9099</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>65</StudyDuration>
+      <StudyId>UXQ_43</StudyId>
+      <StudyPatientCap>330</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2007990</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam</Description>
+      <Director>David Russell</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Clara Young</Manager>
+      <Patients>148</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>04466</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>49</StudyDuration>
+      <StudyId>ZPI_02</StudyId>
+      <StudyPatientCap>330</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>200870</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna,</Description>
+      <Director>Victoria Russell</Director>
+      <Division>ID</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Noah Gray</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>00770</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>BIF_62</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2007502</Code>
+      <Description>Lorem ipsum dolor sit a</Description>
+      <Director>Aria Walker</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Carson Evans</Manager>
+      <Patients>85</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>57709</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>52</StudyDuration>
+      <StudyId>LRH_4</StudyId>
+      <StudyPatientCap>190</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Post-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2000466</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit a</Description>
+      <Director>Mia Robinson</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Cooper Bell</Manager>
+      <Patients>76</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>35493</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>58</StudyDuration>
+      <StudyId>UNP_6</StudyId>
+      <StudyPatientCap>170</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2008524</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam.</Description>
+      <Director>Claire Lee</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Peyton Phillips</Manager>
+      <Patients>58</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>64909</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>55</StudyDuration>
+      <StudyId>PFQ_52</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Approval Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>CLOSEOUT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>20079</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat q</Description>
+      <Director>Noah Sanchez</Director>
+      <Division>ID</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Samuel Russell</Manager>
+      <Patients>135</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>87997</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>52</StudyDuration>
+      <StudyId>RPG_02</StudyId>
+      <StudyPatientCap>300</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2005429</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum</Description>
+      <Director>Savannah undefined</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Abigail Carter</Manager>
+      <Patients>153</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>0448</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>ZQJ_48</StudyId>
+      <StudyPatientCap>340</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200463</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in</Description>
+      <Director>Maya Ward</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Madelyn Brown</Manager>
+      <Patients>103</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>32202</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>ZJX_3</StudyId>
+      <StudyPatientCap>230</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>20066</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Ve</Description>
+      <Director>Carter Scott</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Nolan Russell</Manager>
+      <Patients>94</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>7808</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>POP_08</StudyId>
+      <StudyPatientCap>210</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>200235</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus.</Description>
+      <Director>Riley Martin</Director>
+      <Division>ID</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Brooklyn Murphy</Manager>
+      <Patients>85</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>48539</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>PRH_30</StudyId>
+      <StudyPatientCap>190</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>200872</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsu</Description>
+      <Director>Alice Williams</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Tristan Wood</Manager>
+      <Patients>54</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2015-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>077</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>38</StudyDuration>
+      <StudyId>BFS_6</StudyId>
+      <StudyPatientCap>120</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2008482</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor</Description>
+      <Director>Cooper Peterson</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Harrison Adams</Manager>
+      <Patients>153</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>68334</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>KUN_56</StudyId>
+      <StudyPatientCap>340</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Pre-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>CLOSEOUT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2000820</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet ph</Description>
+      <Director>Samantha Diaz</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Annabelle Wood</Manager>
+      <Patients>76</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>46798</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>53</StudyDuration>
+      <StudyId>QI_8</StudyId>
+      <StudyPatientCap>170</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2004047</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viver</Description>
+      <Director>Bailey Taylor</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Lucy Ross</Manager>
+      <Patients>108</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>79939</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>56</StudyDuration>
+      <StudyId>BMZ_80</StudyId>
+      <StudyPatientCap>240</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>20029</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eg</Description>
+      <Director>Alice Gray</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Aaron Martinez</Manager>
+      <Patients>157</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>8509</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>58</StudyDuration>
+      <StudyId>YGB_55</StudyId>
+      <StudyPatientCap>350</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200495</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget ris</Description>
+      <Director>Brooke Sanders</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Ian Brooks</Manager>
+      <Patients>121</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>763</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>71</StudyDuration>
+      <StudyId>ZSF_8</StudyId>
+      <StudyPatientCap>270</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Exploratory Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2003202</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pre</Description>
+      <Director>Brayden Rodriguez</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Oliver Gray</Manager>
+      <Patients>153</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>48847</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>47</StudyDuration>
+      <StudyId>UVS_42</StudyId>
+      <StudyPatientCap>340</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2006090</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primi</Description>
+      <Director>Elijah Johnson</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Savannah Mitchell</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>25677</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>54</StudyDuration>
+      <StudyId>HVY_37</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200949</Code>
+      <Description>Lorem ipsu</Description>
+      <Director>Carson Morgan</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>James Hernandez</Manager>
+      <Patients>81</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2016-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>32645</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>40</StudyDuration>
+      <StudyId>MMV_20</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2007726</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in velit he</Description>
+      <Director>Grace Stewart</Director>
+      <Division>ID</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Ellie Butler</Manager>
+      <Patients>144</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>60349</RecordId>
+      <Status>CLOSED</Status>
+      <StudyDuration>43</StudyDuration>
+      <StudyId>DWF_40</StudyId>
+      <StudyPatientCap>320</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2005299</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing</Description>
+      <Director>Abigail Foster</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Noah Ross</Manager>
+      <Patients>153</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>0638</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>BVG_52</StudyId>
+      <StudyPatientCap>340</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200554</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit</Description>
+      <Director>Sarah Richardson</Director>
+      <Division>ID</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Sarah Phillips</Manager>
+      <Patients>85</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>25522</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>61</StudyDuration>
+      <StudyId>WMN_84</StudyId>
+      <StudyPatientCap>190</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200056</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus</Description>
+      <Director>Aiden Sullivan</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Jack Edwards</Manager>
+      <Patients>103</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>80969</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>DUR_7</StudyId>
+      <StudyPatientCap>230</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2004099</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusc</Description>
+      <Director>Kennedy Peterson</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Layla Wilson</Manager>
+      <Patients>76</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2021-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>37760</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>46</StudyDuration>
+      <StudyId>DPE_20</StudyId>
+      <StudyPatientCap>170</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200594</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum</Description>
+      <Director>Brianna Walker</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Mackenzie Phillips</Manager>
+      <Patients>54</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>23446</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>63</StudyDuration>
+      <StudyId>UXM_37</StudyId>
+      <StudyPatientCap>120</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2002060</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet ph</Description>
+      <Director>Caleb Ross</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Evelyn Robinson</Manager>
+      <Patients>58</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>62900</RecordId>
+      <Status>CLOSED</Status>
+      <StudyDuration>45</StudyDuration>
+      <StudyId>YXF_62</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200737</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis ma</Description>
+      <Director>Charlie Phillips</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Daniel Powell</Manager>
+      <Patients>58</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>4079</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>72</StudyDuration>
+      <StudyId>BLG_40</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Pre-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200446</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in velit hendrerit, accumsan</Description>
+      <Director>Riley Lee</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Lucy Nelson</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>3253</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>VDJ_45</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Approval Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2005380</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. C</Description>
+      <Director>Aiden Rodriguez</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Blake Baker</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>73364</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>65</StudyDuration>
+      <StudyId>QES_4</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2003935</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in fauci</Description>
+      <Director>Easton Bailey</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Caroline Baker</Manager>
+      <Patients>58</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>2934</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>45</StudyDuration>
+      <StudyId>KQG_24</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Pre-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2000773</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit ame</Description>
+      <Director>Lily Ortiz</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Kylie Adams</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>67297</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>52</StudyDuration>
+      <StudyId>PSK_0</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Post-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2000226</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum p</Description>
+      <Director>Savannah Lewis</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Isaac Torres</Manager>
+      <Patients>112</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2015-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>29509</RecordId>
+      <Status>ACTIVE</Status>
+      <StudyDuration>49</StudyDuration>
+      <StudyId>IUO_52</StudyId>
+      <StudyPatientCap>250</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200845</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Na</Description>
+      <Director>Reese Ross</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Claire Roberts</Manager>
+      <Patients>108</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>3974</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>54</StudyDuration>
+      <StudyId>ULS_86</StudyId>
+      <StudyPatientCap>240</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Approval Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2007336</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in</Description>
+      <Director>Aria Morris</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Maria Ward</Manager>
+      <Patients>117</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2019-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>422</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>YKR_79</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2006736</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio e</Description>
+      <Director>Andrew Reyes</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Elena White</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>95252</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>71</StudyDuration>
+      <StudyId>MLL_87</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2000976</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</Description>
+      <Director>Harper Roberts</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Kayla Morgan</Manager>
+      <Patients>130</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2020-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>224</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>43</StudyDuration>
+      <StudyId>KOE_50</StudyId>
+      <StudyPatientCap>290</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2008476</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor t</Description>
+      <Director>Mackenzie Jenkins</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Kylie Edwards</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>52659</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>JSL_38</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Exploratory Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2002276</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in fauc</Description>
+      <Director>Piper Baker</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Kaylee Garcia</Manager>
+      <Patients>90</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2022-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>22098</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>40</StudyDuration>
+      <StudyId>FDE_7</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2007894</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cub</Description>
+      <Director>Anthony Sanders</Director>
+      <Division>ID</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Gianna Rivera</Manager>
+      <Patients>148</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>558</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>52</StudyDuration>
+      <StudyId>WKY_00</StudyId>
+      <StudyPatientCap>330</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2003567</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Viv</Description>
+      <Director>David Parker</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Kennedy Taylor</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>98052</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>PO_95</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Exploratory Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2008926</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex</Description>
+      <Director>Andrew Cruz</Director>
+      <Division>ID</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Emily Flores</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>7530</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>EUR_78</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200794</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in velit hendre</Description>
+      <Director>David Hughes</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Julia Peterson</Manager>
+      <Patients>121</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>2645</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>50</StudyDuration>
+      <StudyId>TGV_88</StudyId>
+      <StudyPatientCap>270</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2002268</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio d</Description>
+      <Director>Ethan Martin</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Michael Myers</Manager>
+      <Patients>144</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2024-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>3939</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>64</StudyDuration>
+      <StudyId>EBF_94</StudyId>
+      <StudyPatientCap>320</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2008353</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pr</Description>
+      <Director>Allison Russell</Director>
+      <Division>ID</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Lily Morris</Manager>
+      <Patients>99</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>20</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>EMB_76</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2003677</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliq</Description>
+      <Director>Hayden Bell</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Declan Peterson</Manager>
+      <Patients>63</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2018-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>26222</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>63</StudyDuration>
+      <StudyId>EH_20</StudyId>
+      <StudyPatientCap>140</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2000209</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet phar</Description>
+      <Director>Sadie Gray</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Elijah Phillips</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>3025</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>61</StudyDuration>
+      <StudyId>QKG_63</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2004569</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce in</Description>
+      <Director>Molly Jones</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Dominic Hughes</Manager>
+      <Patients>135</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2021-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>6697</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>62</StudyDuration>
+      <StudyId>UPQ_22</StudyId>
+      <StudyPatientCap>300</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>20090</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet al</Description>
+      <Director>Brooklyn Reyes</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Ruby Flores</Manager>
+      <Patients>85</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>6835</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>62</StudyDuration>
+      <StudyId>LDY_39</StudyId>
+      <StudyPatientCap>190</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Post-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>200074</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet</Description>
+      <Director>Leo Ortiz</Director>
+      <Division>ID</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Leah Murphy</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>6647</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>CUJ_0</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2003556</Code>
+      <Description>Lorem ipsum dolor</Description>
+      <Director>Avery Baker</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Ethan Moore</Manager>
+      <Patients>108</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2019-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>44460</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>JUV_4</StudyId>
+      <StudyPatientCap>240</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Pre-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2006556</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis</Description>
+      <Director>Makayla Young</Director>
+      <Division>ID</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Nolan Brown</Manager>
+      <Patients>49</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2015-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>88858</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>40</StudyDuration>
+      <StudyId>XBB_59</StudyId>
+      <StudyPatientCap>110</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200565</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ult</Description>
+      <Director>Hailey Diaz</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Kaylee Young</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>30982</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>LLF_35</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2007298</Code>
+      <Description>Lorem ipsum dolo</Description>
+      <Director>Alice Foster</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Grace Bennett</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>2592</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>63</StudyDuration>
+      <StudyId>KMJ_49</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2008768</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum e</Description>
+      <Director>Jason Cooper</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Jake Stewart</Manager>
+      <Patients>144</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>07037</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>67</StudyDuration>
+      <StudyId>OYN_76</StudyId>
+      <StudyPatientCap>320</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Pre-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2006967</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia</Description>
+      <Director>Clara Hall</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Jayden James</Manager>
+      <Patients>63</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>87833</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>38</StudyDuration>
+      <StudyId>SZC_22</StudyId>
+      <StudyPatientCap>140</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200028</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis</Description>
+      <Director>Chase Morgan</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Bentley Sanders</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>0263</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>BHU_68</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Approval Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200642</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna</Description>
+      <Director>Elijah Martin</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Jasmine Flores</Manager>
+      <Patients>99</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2020-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>35758</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>45</StudyDuration>
+      <StudyId>FCL_2</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2007444</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur h</Description>
+      <Director>Andrew Myers</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Zachary Nelson</Manager>
+      <Patients>148</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2019-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>36098</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>61</StudyDuration>
+      <StudyId>EBQ_07</StudyId>
+      <StudyPatientCap>330</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2003008</Code>
+      <Description>Lorem</Description>
+      <Director>Ethan undefined</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Elizabeth Flores</Manager>
+      <Patients>58</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2016-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>46500</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>43</StudyDuration>
+      <StudyId>RET_</StudyId>
+      <StudyPatientCap>130</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Pre-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2003843</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim elei</Description>
+      <Director>Isaiah Ross</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Owen Jones</Manager>
+      <Patients>117</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>8297</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>66</StudyDuration>
+      <StudyId>SQN_46</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2003538</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magn</Description>
+      <Director>Piper Rogers</Director>
+      <Division>ID</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Easton Brooks</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>25983</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>56</StudyDuration>
+      <StudyId>RFE_78</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2005097</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna</Description>
+      <Director>Xavier Rogers</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Ellie Nguyen</Manager>
+      <Patients>99</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-01-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>99727</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>71</StudyDuration>
+      <StudyId>HSQ_26</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2006435</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam p</Description>
+      <Director>Kaitlyn Jones</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Claire Howard</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>35773</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>VJL_89</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2009428</Code>
+      <Description>Lorem ipsum dolo</Description>
+      <Director>Gabriel Phillips</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Riley Diaz</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2024-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2019-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>75393</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>WFU_64</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Investigational Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2002485</Code>
+      <Description>Lorem i</Description>
+      <Director>Kate Brooks</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Zachary Bailey</Manager>
+      <Patients>99</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>0863</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>64</StudyDuration>
+      <StudyId>LHS_52</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2000280</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. D</Description>
+      <Director>Brianna Rivera</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Easton Rivera</Manager>
+      <Patients>112</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>57753</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>MM_87</StudyId>
+      <StudyPatientCap>250</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200957</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum e</Description>
+      <Director>Claire Garcia</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Logan Davis</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>02005</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>56</StudyDuration>
+      <StudyId>GTE_69</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200230</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetu</Description>
+      <Director>Jacob Adams</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Cooper Flores</Manager>
+      <Patients>103</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2023-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>95082</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>MS_37</StudyId>
+      <StudyPatientCap>230</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>200946</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in v</Description>
+      <Director>Aiden Williams</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Aiden Price</Manager>
+      <Patients>130</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2022-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>0920</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>51</StudyDuration>
+      <StudyId>PSS_94</StudyId>
+      <StudyPatientCap>290</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2007930</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum plac</Description>
+      <Director>Scarlett Cook</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Lily Baker</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>8670</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>56</StudyDuration>
+      <StudyId>VTV_76</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2008697</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vest</Description>
+      <Director>Sienna Bell</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Benjamin Cook</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2015-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>34902</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>49</StudyDuration>
+      <StudyId>SWI_94</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2003577</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices po</Description>
+      <Director>Jeremiah Morris</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Lyla Gray</Manager>
+      <Patients>112</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>4825</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>50</StudyDuration>
+      <StudyId>IDS_4</StudyId>
+      <StudyPatientCap>250</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>200000</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubil</Description>
+      <Director>Reese Cook</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Makayla Wood</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>7548</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>OHN_65</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200325</Code>
+      <Description>Lorem ipsum dolor sit amet, consecte</Description>
+      <Director>Nolan Sullivan</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Dominic Campbell</Manager>
+      <Patients>121</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>02226</RecordId>
+      <Status>DEVELOP</Status>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>WNN_68</StudyId>
+      <StudyPatientCap>270</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Post-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2008420</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetu</Description>
+      <Director>Ella James</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Brody Wood</Manager>
+      <Patients>157</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>32305</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>65</StudyDuration>
+      <StudyId>ZIV_63</StudyId>
+      <StudyPatientCap>350</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2002000</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium</Description>
+      <Director>Hannah Wilson</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Matthew Thompson</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>3472</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>66</StudyDuration>
+      <StudyId>VLZ_92</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Exploratory Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2000340</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primi</Description>
+      <Director>Landon Campbell</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Isabelle Powell</Manager>
+      <Patients>99</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2019-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>6840</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>ORX_43</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2009486</Code>
+      <Description>Lor</Description>
+      <Director>Jackson Rogers</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Evan Bell</Manager>
+      <Patients>49</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>50793</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>50</StudyDuration>
+      <StudyId>GGS_0</StudyId>
+      <StudyPatientCap>110</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Exploratory Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2005649</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendr</Description>
+      <Director>Aubrey Perry</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Hunter Robinson</Manager>
+      <Patients>85</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>07380</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>FOJ_70</StudyId>
+      <StudyPatientCap>190</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Exploratory Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2008653</Code>
+      <Description>Lorem ipsum dolor sit amet, cons</Description>
+      <Director>Ella Long</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Nolan Hernandez</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>74484</RecordId>
+      <Status>FINAL DATA SET</Status>
+      <StudyDuration>66</StudyDuration>
+      <StudyId>PON_98</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2006006</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magn</Description>
+      <Director>Adam Wright</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Adrian Gomez</Manager>
+      <Patients>94</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>87850</RecordId>
+      <Status>CLOSED</Status>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>VX_44</StudyId>
+      <StudyPatientCap>210</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200246</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubi</Description>
+      <Director>Madison Lewis</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Lillian Clark</Manager>
+      <Patients>112</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>47250</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>46</StudyDuration>
+      <StudyId>RCY_5</StudyId>
+      <StudyPatientCap>250</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>200755</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretiu</Description>
+      <Director>Hailey Carter</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Landon Stewart</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>84690</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>65</StudyDuration>
+      <StudyId>FXF_64</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Post-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>CLOSEOUT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200528</Code>
+      <Description>Lorem ipsum dolor sit amet, consec</Description>
+      <Director>Isaac Myers</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Henry Ward</Manager>
+      <Patients>130</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>83630</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>43</StudyDuration>
+      <StudyId>WOC_72</StudyId>
+      <StudyPatientCap>290</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Investigational Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200280</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttito</Description>
+      <Director>Grace Sanchez</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Mackenzie Gutierrez</Manager>
+      <Patients>144</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>5703</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>40</StudyDuration>
+      <StudyId>DTM_98</StudyId>
+      <StudyPatientCap>320</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Investigational Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2003344</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit ame</Description>
+      <Director>Kendall Harris</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Nolan Rodriguez</Manager>
+      <Patients>130</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2018-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>04776</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>53</StudyDuration>
+      <StudyId>DTM_34</StudyId>
+      <StudyPatientCap>290</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2003732</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in f</Description>
+      <Director>Paige Butler</Director>
+      <Division>ID</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Chloe Long</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>09574</RecordId>
+      <Status>CLOSED</Status>
+      <StudyDuration>53</StudyDuration>
+      <StudyId>JFO_32</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2004823</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas m</Description>
+      <Director>Riley Gutierrez</Director>
+      <Division>ID</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Arianna Wright</Manager>
+      <Patients>117</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>0924</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>RL_06</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Pre-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2006995</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum</Description>
+      <Director>Aaliyah Lewis</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Julia King</Manager>
+      <Patients>63</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>63029</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>49</StudyDuration>
+      <StudyId>SJS_30</StudyId>
+      <StudyPatientCap>140</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>CLOSEOUT</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2007972</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pr</Description>
+      <Director>Kayla Russell</Director>
+      <Division>ID</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Avery Clark</Manager>
+      <Patients>135</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>39285</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>BRB_24</StudyId>
+      <StudyPatientCap>300</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200739</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit</Description>
+      <Director>Natalie Gomez</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Quinn King</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>8439</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>45</StudyDuration>
+      <StudyId>YJL_34</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200500</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in vel</Description>
+      <Director>Sean Powell</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Sydney Howard</Manager>
+      <Patients>121</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>26505</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>UXP_47</StudyId>
+      <StudyPatientCap>270</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2006355</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Ves</Description>
+      <Director>Nathaniel Parker</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Elise Price</Manager>
+      <Patients>63</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>38358</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>40</StudyDuration>
+      <StudyId>WZR_93</StudyId>
+      <StudyPatientCap>140</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Post-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2007768</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipis</Description>
+      <Director>Abigail Miller</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Morgan Reyes</Manager>
+      <Patients>67</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2023-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>4858</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>70</StudyDuration>
+      <StudyId>WCB_82</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2004696</Code>
+      <Description>Lorem ipsu</Description>
+      <Director>Maya Moore</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Jasmine Williams</Manager>
+      <Patients>130</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>447</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>46</StudyDuration>
+      <StudyId>HCI_62</StudyId>
+      <StudyPatientCap>290</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Approval Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2009446</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis</Description>
+      <Director>Anna Gonzalez</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Kaylee Campbell</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>635</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>JMT_59</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2002303</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed</Description>
+      <Director>Brody Butler</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Christopher Martinez</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>25605</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>MOX_80</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Investigational Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>CLOSEOUT</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2005008</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam</Description>
+      <Director>Jackson Murphy</Director>
+      <Division>ID</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Micah Flores</Manager>
+      <Patients>103</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2024-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2019-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>22493</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>67</StudyDuration>
+      <StudyId>ZWQ_30</StudyId>
+      <StudyPatientCap>230</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200783</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus</Description>
+      <Director>Dominic Sanchez</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Grayson Sanders</Manager>
+      <Patients>144</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>2889</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>EWC_59</StudyId>
+      <StudyPatientCap>320</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2008409</Code>
+      <Description>Lorem ipsum dol</Description>
+      <Director>Kaylee Peterson</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Abigail Hall</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>57274</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>62</StudyDuration>
+      <StudyId>YUH_95</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Approval Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2009788</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet ph</Description>
+      <Director>Luke Davis</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Jake Williams</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>64339</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>GJL_02</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2000657</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luct</Description>
+      <Director>Riley Jackson</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Joshua Martin</Manager>
+      <Patients>81</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>47944</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>48</StudyDuration>
+      <StudyId>PKE_62</StudyId>
+      <StudyPatientCap>180</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>STARTUP</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2009322</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam al</Description>
+      <Director>Leah Long</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Eliana Stewart</Manager>
+      <Patients>139</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>9555</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>LGD_83</StudyId>
+      <StudyPatientCap>310</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Post-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2006244</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat qui</Description>
+      <Director>Riley Kelly</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Cameron Gomez</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>05236</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StudyDuration>55</StudyDuration>
+      <StudyId>LRY_40</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Pre-Market Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2006942</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus</Description>
+      <Director>Jack Price</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Brooklyn Moore</Manager>
+      <Patients>117</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>4483</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>59</StudyDuration>
+      <StudyId>ZBV_38</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2005322</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna eg</Description>
+      <Director>Sean Perry</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Bella Hernandez</Manager>
+      <Patients>153</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2022-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>480</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>59</StudyDuration>
+      <StudyId>UX_92</StudyId>
+      <StudyPatientCap>340</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Pre-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2004652</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere c</Description>
+      <Director>Emily Scott</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Emily Wood</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>08027</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>65</StudyDuration>
+      <StudyId>NIW_59</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Exploratory Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200588</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet ali</Description>
+      <Director>Dylan Watson</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Ryan Hall</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>50572</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>NTV_69</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200796</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusc</Description>
+      <Director>Aaliyah Young</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Easton Edwards</Manager>
+      <Patients>94</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-03-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>30034</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>48</StudyDuration>
+      <StudyId>QEW_38</StudyId>
+      <StudyPatientCap>210</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Pre-Market Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>2004992</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipis</Description>
+      <Director>Colton Turner</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Leah Sanchez</Manager>
+      <Patients>121</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>57087</RecordId>
+      <Status>APPROVED</Status>
+      <StudyDuration>48</StudyDuration>
+      <StudyId>QYX_8</StudyId>
+      <StudyPatientCap>270</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Investigational Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2002208</Code>
+      <Description>Lorem ipsum do</Description>
+      <Director>Ella Cruz</Director>
+      <Division>ID</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Alexis Cruz</Manager>
+      <Patients>117</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>4957</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>38</StudyDuration>
+      <StudyId>LYN_33</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Investigational Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2007748</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdi</Description>
+      <Director>Olivia Reyes</Director>
+      <Division>ID</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Owen Jenkins</Manager>
+      <Patients>54</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>23232</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>43</StudyDuration>
+      <StudyId>JWS_2</StudyId>
+      <StudyPatientCap>120</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Post-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2005048</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus.</Description>
+      <Director>Sydney Gomez</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Grayson Brooks</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2015-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>29986</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>37</StudyDuration>
+      <StudyId>HHX_64</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200480</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam preti</Description>
+      <Director>Zoe Ross</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Lily Ortiz</Manager>
+      <Patients>108</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2023-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>65090</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>56</StudyDuration>
+      <StudyId>UQM_40</StudyId>
+      <StudyPatientCap>240</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>CLOSEOUT</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2007422</Code>
+      <Description>Lore</Description>
+      <Director>Brooke Campbell</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Jace Foster</Manager>
+      <Patients>157</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2020-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>56397</RecordId>
+      <Status>FINAL DATA SET</Status>
+      <StatusColor>#FFBF00</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>LEN_69</StudyId>
+      <StudyPatientCap>350</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Exploratory Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200872</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrer</Description>
+      <Director>Kendall Kelly</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Sydney Taylor</Manager>
+      <Patients>85</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>46936</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>70</StudyDuration>
+      <StudyId>KI_97</StudyId>
+      <StudyPatientCap>190</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Exploratory Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2003464</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet</Description>
+      <Director>Eva King</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Brianna Thomas</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>7728</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>42</StudyDuration>
+      <StudyId>GBF_99</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2007634</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam</Description>
+      <Director>Sadie Thomas</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Jeremiah Johnson</Manager>
+      <Patients>108</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2018-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>08037</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>QUE_99</StudyId>
+      <StudyPatientCap>240</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>2008863</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risu</Description>
+      <Director>Bailey Brooks</Director>
+      <Division>ID</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Joseph Cook</Manager>
+      <Patients>126</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-06-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>2327</RecordId>
+      <Status>ACTIVE</Status>
+      <StudyDuration>47</StudyDuration>
+      <StudyId>XYY_73</StudyId>
+      <StudyPatientCap>280</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Investigational Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>200809</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis i</Description>
+      <Director>Hannah Phillips</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Isaiah Martin</Manager>
+      <Patients>103</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2018-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>65908</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>66</StudyDuration>
+      <StudyId>TCW_5</StudyId>
+      <StudyPatientCap>230</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Exploratory Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>18</ActiveSites>
+      <Code>2005658</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit ame</Description>
+      <Director>Stella Mitchell</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>11</EnrollingSites>
+      <Manager>Aaron Bell</Manager>
+      <Patients>157</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2022-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>52972</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>RUJ_65</StudyId>
+      <StudyPatientCap>350</StudyPatientCap>
+      <StudySiteCap>25</StudySiteCap>
+      <Title>Approval Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>200923</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Cur</Description>
+      <Director>Chloe Myers</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Landon Green</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>25</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>FRO_98</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Investigational Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2007826</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximu</Description>
+      <Director>Henry Rivera</Director>
+      <Division>ID</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Savannah Harris</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2016-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-05-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>68472</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>38</StudyDuration>
+      <StudyId>OKD_06</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Approval Facility Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>15</ActiveSites>
+      <Code>200456</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum</Description>
+      <Director>Alexa Brooks</Director>
+      <Division>NMD</Division>
+      <EnrollingSites>9</EnrollingSites>
+      <Manager>Ryan Jackson</Manager>
+      <Patients>90</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2021-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>93555</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>44</StudyDuration>
+      <StudyId>HQZ_77</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>20</StudySiteCap>
+      <Title>Approval Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>3</ActiveSites>
+      <Code>200455</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. C</Description>
+      <Director>Samuel Russell</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>1</EnrollingSites>
+      <Manager>Eliana Hall</Manager>
+      <Patients>117</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>0896</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>71</StudyDuration>
+      <StudyId>GBF_79</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>5</StudySiteCap>
+      <Title>Post-Market Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>PENDING COMPLETION</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2000645</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus e</Description>
+      <Director>Brody Rodriguez</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Isaac Sullivan</Manager>
+      <Patients>108</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2018-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>90356</RecordId>
+      <Status>APPROVED</Status>
+      <StudyDuration>58</StudyDuration>
+      <StudyId>TIG_63</StudyId>
+      <StudyPatientCap>240</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>200060</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit am</Description>
+      <Director>Stella Gray</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Lillian Gomez</Manager>
+      <Patients>103</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-12-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>44653</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>60</StudyDuration>
+      <StudyId>YEE_3</StudyId>
+      <StudyPatientCap>230</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Investigational Drug Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>200434</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hen</Description>
+      <Director>Allison Price</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Wyatt Powell</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2022-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-11-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>07744</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>69</StudyDuration>
+      <StudyId>YTF_63</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Investigational Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2006454</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia C</Description>
+      <Director>Luke Ross</Director>
+      <Division>ID</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Oliver Cruz</Manager>
+      <Patients>76</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2018-04-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-07-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>37088</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>68</StudyDuration>
+      <StudyId>PTJ_22</StudyId>
+      <StudyPatientCap>170</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2000242</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in velit hendrerit, ac</Description>
+      <Director>Elena Murphy</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Alexander Collins</Manager>
+      <Patients>117</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2021-10-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-08-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>36490</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>38</StudyDuration>
+      <StudyId>LUG_70</StudyId>
+      <StudyPatientCap>260</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2006380</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</Description>
+      <Director>Anthony Long</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Molly Phillips</Manager>
+      <Patients>67</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-10-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>60260</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>61</StudyDuration>
+      <StudyId>TUY_98</StudyId>
+      <StudyPatientCap>150</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Exploratory Device Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>200527</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam a</Description>
+      <Director>Anna Jones</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Benjamin Rodriguez</Manager>
+      <Patients>99</Patients>
+      <Priority>1</Priority>
+      <ProjectEndDate>2024-09-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-09-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>4309</RecordId>
+      <Status>APPROVED</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>72</StudyDuration>
+      <StudyId>FUY_22</StudyId>
+      <StudyPatientCap>220</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Approval Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>FOLLOWUP</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>20098</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus</Description>
+      <Director>Reese Anderson</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Emily Bailey</Manager>
+      <Patients>72</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-11-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>8566</RecordId>
+      <Status>END ENROLL-PTS</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>41</StudyDuration>
+      <StudyId>QQW_62</StudyId>
+      <StudyPatientCap>160</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Exploratory Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2003455</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor m</Description>
+      <Director>Evelyn Bailey</Director>
+      <Division>CRMD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Sydney White</Manager>
+      <Patients>148</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2014-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>29873</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>57</StudyDuration>
+      <StudyId>GGP_88</StudyId>
+      <StudyPatientCap>330</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2005928</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivam</Description>
+      <Director>Lily Hall</Director>
+      <Division>CVD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Henry Stewart</Manager>
+      <Patients>157</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-05-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2017-02-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>5697</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#FF0000</StatusColor>
+      <StudyDuration>51</StudyDuration>
+      <StudyId>CRW_83</StudyId>
+      <StudyPatientCap>350</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Approval Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>7</ActiveSites>
+      <Code>2009929</Code>
+      <Description>Lorem ipsum dolor sit amet,</Description>
+      <Director>Declan Sanders</Director>
+      <Division>ID</Division>
+      <EnrollingSites>4</EnrollingSites>
+      <Manager>Jackson Wilson</Manager>
+      <Patients>49</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2021-08-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2016-04-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>80976</RecordId>
+      <Status>ACTIVE</Status>
+      <StudyDuration>64</StudyDuration>
+      <StudyId>VX_23</StudyId>
+      <StudyPatientCap>110</StudyPatientCap>
+      <StudySiteCap>10</StudySiteCap>
+      <Title>Investigational Medical Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>11</ActiveSites>
+      <Code>2007207</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices pos</Description>
+      <Director>Mason Flores</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>7</EnrollingSites>
+      <Manager>Declan Reed</Manager>
+      <Patients>90</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2024-02-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2018-01-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>5896</RecordId>
+      <Status>DEVELOP</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>72</StudyDuration>
+      <StudyId>DKI_47</StudyId>
+      <StudyPatientCap>200</StudyPatientCap>
+      <StudySiteCap>15</StudySiteCap>
+      <Title>Pre-Market Training Study</Title>
+   </study>
+   <study>
+      <ActivePhase>ENROLLMENT</ActivePhase>
+      <ActiveSites>26</ActiveSites>
+      <Code>2004460</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus</Description>
+      <Director>Victoria Richardson</Director>
+      <Division>EXT</Division>
+      <EnrollingSites>16</EnrollingSites>
+      <Manager>Matthew Cooper</Manager>
+      <Patients>121</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2017-07-01T04:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2012-06-01T04:00:00.000Z</ProjectStartDate>
+      <RecordId>78924</RecordId>
+      <Status>ACTIVE</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>61</StudyDuration>
+      <StudyId>DUY_77</StudyId>
+      <StudyPatientCap>270</StudyPatientCap>
+      <StudySiteCap>35</StudySiteCap>
+      <Title>Pre-Market Implant Study</Title>
+   </study>
+   <study>
+      <ActivePhase>DESIGN</ActivePhase>
+      <ActiveSites>22</ActiveSites>
+      <Code>2000253</Code>
+      <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifen</Description>
+      <Director>Bella King</Director>
+      <Division>AFD</Division>
+      <EnrollingSites>14</EnrollingSites>
+      <Manager>Wyatt Morgan</Manager>
+      <Patients>153</Patients>
+      <Priority>0</Priority>
+      <ProjectEndDate>2019-03-01T05:00:00.000Z</ProjectEndDate>
+      <ProjectStartDate>2013-12-01T05:00:00.000Z</ProjectStartDate>
+      <RecordId>7088</RecordId>
+      <Status>CANCELLED</Status>
+      <StatusColor>#01DF01</StatusColor>
+      <StudyDuration>62</StudyDuration>
+      <StudyId>RQG_80</StudyId>
+      <StudyPatientCap>340</StudyPatientCap>
+      <StudySiteCap>30</StudySiteCap>
+      <Title>Investigational Facility Study</Title>
+   </study>
+</root>
