@@ -1,6 +1,7 @@
 <div data-role="view"
     id="study-detail-view" 
     data-model="ctd.studies.viewModel"
+    data-init="ctd.studies.viewModel.init"
     data-show="ctd.studies.viewModel.show"
     data-title="Active Sites" 
     data-layout="detail-layout">
@@ -35,7 +36,7 @@
     <!-- tabstrip view content gets placed here -->
 
     <div data-role="footer">
-        <div data-role="tabstrip">
+        <div id="nav-tabstrip" data-role="tabstrip">
             <a href="#study-detail-view">Active Sites</a>
             <a href="#enrolled-site-view">Enrolled Sites</a>
             <a href="#patient-progress-view">Patient Progress</a>

@@ -5,12 +5,13 @@
     // private values
     var currentStudy;
     var viewContentHeight;    
+    var ts;
 
     // vM
     ctd.studies = {
         viewModel: kendo.observable({
             init: function () {               
-                
+
             },
             show: function (e) {
                 viewContentHeight = e.view.content[0].clientHeight - 10;
@@ -32,16 +33,23 @@
                         data: activeData
                     }),
                     legend: {
-                        visible: false
+                        visible: true,
+                        position: "top"
                     },
                     title: {
                         text: "Active Sites"
                     },
                     series: [{
+                        name: "Active Sites By Hospital",
                         type: "bar",
                         field: "siteData",
                         categoryField: "siteName"
-                    }]
+                    }],
+                    valueAxis: {
+                        title: {
+                            text: "Active Patients"
+                        }
+                    }
                 });
 
                 var activeChart = $("#active-chart").data("kendoChart");
@@ -52,23 +60,48 @@
                 //var enrolledData = ctd.chartData.getEnrolledData(currentStudy.EnrollingSites);
                 var enrolledData = studyData.EnrolledData;
 
+                $.each(enrolledData, function (index, item) {
+                    item.siteSizeStatic = 1;
+                });
+
                 $("#enrollment-chart").kendoChart({
                     dataSource: new kendo.data.DataSource({
                         data: enrolledData
                     }),
                     legend: {
-                        visible: false
+                        visible: true,
+                        position: "top"
                     },
                     title: {
                         text: "Enrolling Sites"
                     },
                     series: [{
+                        name: "Enrolling Sites",
                         type: "bubble",
                         yField: "siteY",
                         xField: "siteX",
                         sizeField: "siteSize",
-                        categoryField: "siteName"
-                    }]
+                        categoryField: "siteName",
+                        color: "red"
+                    }, {
+                        name: "Capacity",
+                        type: "bubble",
+                        yField: "siteY",
+                        xField: "siteX",
+                        sizeField: "siteSizeStatic",
+                        categoryField: "siteName",
+                        color: "blue"
+                    }],
+                    xAxis: {
+                        title: {
+                            text: "Site"
+                        }
+                    },
+                    yAxis: {
+                        title: {
+                            text: "Study Priority"
+                        }
+                    }
                 });
 
                 // patient progress
@@ -77,7 +110,8 @@
 
                 $("#patient-chart").kendoChart({
                     legend: {
-                        visible: false
+                        visible: true,
+                        position: "top"
                     },
                     seriesDefaults: {
                         type: "bar",
@@ -86,13 +120,28 @@
                     dataSource: new kendo.data.DataSource({
                         data: patientData
                     }),
+                    title: {
+                        text: "Active Patient Progress"
+                    },
                     series: [{
+                        name: "Current Response",
                         field: "patientLowVal",
                         categoryField: "patientNumber"
                     }, {
+                        name: "Expected Response",
                         field: "patientHighVal",
                         categoryField: "patientNumber"
-                    }]
+                    }],
+                    categoryAxis: {
+                        title: {
+                            text: "Patient"
+                        }
+                    },
+                    valueAxis: {
+                        title: {
+                            text: "Percent Improvement"
+                        }
+                    }
                 });
 
                 var patientHeight = patientData.length * 30;
