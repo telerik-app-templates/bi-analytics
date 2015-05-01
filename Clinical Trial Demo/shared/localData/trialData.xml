@@ -2,12 +2,12 @@
 <root>
    <study>
       <ActivePhase>ENROLLMENT</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>9</ActiveSites>
       <Code>200784</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet</Description>
       <Director>Elizabeth Wood</Director>
       <Division>NMD</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>6</EnrollingSites>
       <Manager>Bailey Hughes</Manager>
       <Patients>54</Patients>
       <Priority>1</Priority>
@@ -68,12 +68,12 @@
    </study>
    <study>
       <ActivePhase>ENROLLMENT</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>12</ActiveSites>
       <Code>200492</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fu</Description>
       <Director>Sydney Rogers</Director>
       <Division>ID</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>5</EnrollingSites>
       <Manager>Liam Wilson</Manager>
       <Patients>126</Patients>
       <Priority>0</Priority>
@@ -134,12 +134,12 @@
    </study>
    <study>
       <ActivePhase>FOLLOWUP</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>9</ActiveSites>
       <Code>2002069</Code>
       <Description>Lorem ipsum</Description>
       <Director>Austin Foster</Director>
       <Division>CRMD</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>4</EnrollingSites>
       <Manager>Jeremiah Barnes</Manager>
       <Patients>58</Patients>
       <Priority>0</Priority>
@@ -199,12 +199,12 @@
    </study>
    <study>
       <ActivePhase>ENROLLMENT</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>14</ActiveSites>
       <Code>2002463</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestib</Description>
       <Director>Brayden Cox</Director>
       <Division>ID</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>8</EnrollingSites>
       <Manager>Brody Nguyen</Manager>
       <Patients>139</Patients>
       <Priority>0</Priority>
@@ -243,12 +243,12 @@
    </study>
    <study>
       <ActivePhase>PENDING COMPLETION</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>13</ActiveSites>
       <Code>2005389</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit</Description>
       <Director>Jasmine Allen</Director>
       <Division>NMD</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>6</EnrollingSites>
       <Manager>Eleanor Powell</Manager>
       <Patients>72</Patients>
       <Priority>0</Priority>
@@ -373,12 +373,12 @@
    </study>
    <study>
       <ActivePhase>FOLLOWUP</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>10</ActiveSites>
       <Code>2007990</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam</Description>
       <Director>David Russell</Director>
       <Division>NMD</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>5</EnrollingSites>
       <Manager>Clara Young</Manager>
       <Patients>148</Patients>
       <Priority>0</Priority>
@@ -505,12 +505,12 @@
    </study>
    <study>
       <ActivePhase>FOLLOWUP</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>30</ActiveSites>
       <Code>2005429</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum</Description>
       <Director>Savannah undefined</Director>
       <Division>ID</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>10</EnrollingSites>
       <Manager>Abigail Carter</Manager>
       <Patients>153</Patients>
       <Priority>0</Priority>
@@ -527,12 +527,12 @@
    </study>
    <study>
       <ActivePhase>ENROLLMENT</ActivePhase>
-      <ActiveSites>3</ActiveSites>
+      <ActiveSites>16</ActiveSites>
       <Code>200463</Code>
       <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor tellus et odio dignissim eleifend. Curabitur hendrerit lacus urna, sit amet porttitor magna egestas maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus quis rhoncus magna. Nam aliquam sed odio et viverra. Vestibulum placerat quis magna sit amet pharetra. Fusce interdum imperdiet aliquam. Vestibulum eget risus sit amet ex aliquam pretium. Donec in</Description>
       <Director>Maya Ward</Director>
       <Division>ID</Division>
-      <EnrollingSites>1</EnrollingSites>
+      <EnrollingSites>7</EnrollingSites>
       <Manager>Madelyn Brown</Manager>
       <Patients>103</Patients>
       <Priority>0</Priority>

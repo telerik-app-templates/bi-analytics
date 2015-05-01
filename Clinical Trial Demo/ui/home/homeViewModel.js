@@ -4,6 +4,7 @@
 
     // private values
     var ds;
+    var dss;
 
     // vM
     ctd.home = {
@@ -16,9 +17,13 @@
                 } else {
                     ds.filter({});
                 };
+
+                console.log(dss);
             },
             init: function () {
                 ds = ctd.studyModel.studiesData;
+                dss = ctd.studyDataModel.studiesData;
+                dss.read();
 
                 this.model.toggleFilter();               
 
@@ -57,7 +62,7 @@
                         }],
                         width: 115
                     }],
-                    dataSource: ctd.studyModel.studiesData
+                    dataSource: ds //ctd.studyModel.studiesData
                 });
             }
         })

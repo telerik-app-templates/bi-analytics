@@ -6,32 +6,38 @@ console.log("studyModel init");
     var dataModel = {
         id: "RecordId",
         fields: {
-            StudyId: { type: "string" },
-            Title: { type: "string" },
-            Code: { type: "string" },
-            Manager: { type: "string" },
-            Status: { type: "string" },
-            StudyPatientCap: { type: "number" },
-            StudySiteCap: { type: "number" },
-            StudyDuration: { type: "number" },
-            ActiveSites: { type: "number" },
-            EnrollingSites: { type: "number" },
-            Patients: { type: "number" },
-            ProjectStartDate: { type: "date", format: "{0:dd-MMM-yyyy}" },
-            ProjectEndDate: { type: "date", format: "{0:dd-MMM-yyyy}" },
-            Director: { type: "string" },
-            Division: { type: "string" },
-            ActivePhase: { type: "string" },
-            StatusColor: { type: "string" },
-            Description: { type: "string" },
-            Priority: { type: "string" }
+            StudyId: { type: "string", field: "StudyId/text()" },
+            Title: { type: "string", field: "Title/text()" },
+            Code: { type: "string", field: "Code/text()" },
+            Manager: { type: "string", field: "Manager/text()" },
+            Status: { type: "string", field: "Status/text()" },
+            StudyPatientCap: { type: "number", field: "StudyPatientCap/text()" },
+            StudySiteCap: { type: "number", field: "StudySiteCap/text()" },
+            StudyDuration: { type: "number", field: "StudyDuration/text()" },
+            ActiveSites: { type: "number", field: "ActiveSites/text()" },
+            EnrollingSites: { type: "number", field: "EnrollingSites/text()" },
+            Patients: { type: "number", field: "Patients/text()" },
+            ProjectStartDate: { type: "date", field: "ProjectStartDate/text()", format: "{0:dd-MMM-yyyy}" },
+            ProjectEndDate: { type: "date", field: "ProjectEndDate/text()", format: "{0:dd-MMM-yyyy}" },
+            Director: { type: "string", field: "Director/text()" },
+            Division: { type: "string", field: "Division/text()" },
+            ActivePhase: { type: "string", field: "ActivePhase/text()" },
+            StatusColor: { type: "string", field: "StatusColor/text()" },
+            Description: { type: "string", field: "Description/text()" },
+            Priority: { type: "string", field: "Priority/text()" }
         }
     };
 
     ctd.studyModel = {        
         studiesData: new kendo.data.DataSource({
-            data: ctd.studyData.data,
-            model: dataModel
+            transport: {
+                read: "../shared/localData/trialData.xml"
+            },            
+            schema: {
+                type: "xml",
+                data: "/root/study",
+                model: dataModel
+            }
         }),
         getStudy: function (uid) {
             var selectedStudy = ctd.studyModel.studiesData.getByUid(uid);
@@ -40,3 +46,6 @@ console.log("studyModel init");
         }
     }
 })(ctd);
+
+
+//data: ctd.studyData.data,

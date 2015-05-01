@@ -4,7 +4,7 @@
 
     // private values
     var currentStudy;
-    var viewContentHeight;
+    var viewContentHeight;    
 
     // vM
     ctd.studies = {
@@ -19,8 +19,10 @@
                     currentStudy = ctd.studyModel.getStudy(e.view.params.uid);
                 }
 
+                var studyData = ctd.studyDataModel.getStudyById(currentStudy.StudyId);
+
                 // active sites
-                var activeData = ctd.chartData.getActiveData(currentStudy.ActiveSites);
+                var activeData = studyData.ActiveData;
                 var adCount = activeData.length;
                 var activeHeight = adCount * 30;
                 var height = activeHeight > viewContentHeight ? activeHeight : viewContentHeight;
@@ -47,7 +49,8 @@
                 activeChart.redraw();
 
                 // enrolled sites
-                var enrolledData = ctd.chartData.getEnrolledData(currentStudy.EnrollingSites);
+                //var enrolledData = ctd.chartData.getEnrolledData(currentStudy.EnrollingSites);
+                var enrolledData = studyData.EnrolledData;
 
                 $("#enrollment-chart").kendoChart({
                     dataSource: new kendo.data.DataSource({
@@ -69,7 +72,8 @@
                 });
 
                 // patient progress
-                var patientData = ctd.chartData.getPatientData(currentStudy.Patients);
+                //var patientData = ctd.chartData.getPatientData(currentStudy.Patients);
+                var patientData = studyData.PatientData;
 
                 $("#patient-chart").kendoChart({
                     legend: {
