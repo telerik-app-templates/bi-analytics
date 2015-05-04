@@ -29,9 +29,24 @@ console.log("studyModel init");
     };
 
     ctd.studyModel = {        
+         getTrialData: function() {                        
+            var el = new Everlive('4yR5BRhoZ4gAAJXR');
+            
+            var fileId = "cd2cbdd0-f032-11e4-b971-bd4ec90a821b"; // the file identifier is retrived from the REST services
+            
+            el.Files.getDownloadUrlById(fileId)
+            .then(function(downloadUrl){
+                console.log(downloadUrl);
+                return downloadUrl;
+            },
+            function(error){
+                alert(JSON.stringify(error));
+                return null;
+            });
+        },
         studiesData: new kendo.data.DataSource({
             transport: {
-                read: "../shared/localData/trialData.xml"
+                read: "https://bs1.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2cbdd0-f032-11e4-b971-bd4ec90a821b"
             },            
             schema: {
                 type: "xml",

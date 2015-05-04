@@ -13,10 +13,21 @@ console.log("studyDataModel init");
     ctd.studyDataModel = {
         studiesData: new kendo.data.DataSource({
             transport: {
-                read: "../shared/localData/studyData.json"
+                //read: "../shared/localData/studyData.json"
+                read: "https://bs2.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2c96c0-f032-11e4-b971-bd4ec90a821b"
+                //read: "https://bs2.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2c96c0-f032-11e4-b971-bd4ec90a821b?20155414954"
             },
             schema: {
-                type: "json"                
+                type: "json",
+                data: function (e) {
+                    console.log("data");
+                    console.log(JSON.parse(e));
+                    return JSON.parse(e);
+                }
+            },
+            change: function (e) {
+                console.log("change");
+                console.log(e);
             }
         }),
         getStudy: function (uid) {

@@ -20,6 +20,7 @@
                     currentStudy = ctd.studyModel.getStudy(e.view.params.uid);
                 }
 
+                console.log(currentStudy);
                 var studyData = ctd.studyDataModel.getStudyById(currentStudy.StudyId);
 
                 // active sites

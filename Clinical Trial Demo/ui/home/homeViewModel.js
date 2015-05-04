@@ -18,24 +18,26 @@
                     ds.filter({});
                 };
 
-                console.log(dss);
+                //console.log(dss);
             },
-            init: function () {
+            init: function (e) {
                 ds = ctd.studyModel.studiesData;
                 dss = ctd.studyDataModel.studiesData;
                 dss.read();
 
                 this.model.toggleFilter();               
 
+                var viewContentHeight = e.view.content[0].clientHeight - 10;
+                
                 $("#studies-grid").kendoGrid({
                     columns: [{
                         field: "Division",
                         title: "Division",
-                        width: 115
+                        width: 95
                     }, {
                         field: "StudyId",
                         title: "Study ID",
-                        width: 115
+                        width: 95
                     }, {
                         field: "Title",
                         title: "Title",
@@ -45,8 +47,7 @@
                         title: "Study Phase"
                     },  {
                         field: "ActiveSites",
-                        title: "Active Sites",
-                        width: 115
+                        title: "Active Sites"
                     }, {
                         command: [{
                             name: "Details",
@@ -60,9 +61,11 @@
                                 ctd.app.navigate("ui/studiesData/studies.html?uid=" + data.uid);
                             }
                         }],
-                        width: 115
+                        width: 95
                     }],
-                    dataSource: ds //ctd.studyModel.studiesData
+                    dataSource: ds,
+                    //mobile: "phone",
+                    //height: kendo.support.mobileOS.wp ? "24em" : viewContentHeight
                 });
             }
         })
