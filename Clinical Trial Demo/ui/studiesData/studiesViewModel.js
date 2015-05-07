@@ -126,12 +126,12 @@
                     },
                     series: [{
                         name: "Current Response",
-                        field: "patientLowVal",
-                        categoryField: "patientNumber"
+                        field: "low",
+                        categoryField: "itemId"
                     }, {
                         name: "Expected Response",
-                        field: "patientHighVal",
-                        categoryField: "patientNumber"
+                        field: "high",
+                        categoryField: "itemId"
                     }],
                     categoryAxis: {
                         title: {

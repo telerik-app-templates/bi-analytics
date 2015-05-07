@@ -14,15 +14,15 @@ console.log("studyDataModel init");
         studiesData: new kendo.data.DataSource({
             transport: {
                 //read: "../shared/localData/studyData.json"
-                read: "https://bs2.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2c96c0-f032-11e4-b971-bd4ec90a821b"
-                //read: "https://bs2.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2c96c0-f032-11e4-b971-bd4ec90a821b?20155414954"
+                //read: "https://bs2.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2c96c0-f032-11e4-b971-bd4ec90a821b"
+                read: "https://bs2.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2c96c0-f032-11e4-b971-bd4ec90a821b?20155414954"
             },
             schema: {
                 type: "json",
                 data: function (e) {
                     console.log("data");
-                    console.log(JSON.parse(e));
-                    return JSON.parse(e);
+                    var b = JSON.parse(e);
+                    return b.results;
                 }
             },
             change: function (e) {
