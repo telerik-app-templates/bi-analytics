@@ -20,9 +20,12 @@ console.log("studyDataModel init");
             schema: {
                 type: "json",
                 data: function (e) {
-                    console.log("data");
-                    var b = JSON.parse(e);
-                    return b.results;
+                   console.log("data");
+                    try {    
+                   		return JSON.parse(e).results;
+                    } catch(e) {
+                        console.log(e.message);
+                    }
                 }
             },
             change: function (e) {

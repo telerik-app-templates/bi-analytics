@@ -64,6 +64,7 @@
                         width: 95
                     }],
                     dataSource: ds,
+                    sortable: true
                     //mobile: "phone",
                     //height: kendo.support.mobileOS.wp ? "24em" : viewContentHeight
                 });

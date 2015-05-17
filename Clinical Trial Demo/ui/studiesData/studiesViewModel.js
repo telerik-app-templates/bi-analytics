@@ -57,8 +57,7 @@
                 $("#active-chart").css({ height: height });
                 activeChart.redraw();
 
-                // enrolled sites
-                //var enrolledData = ctd.chartData.getEnrolledData(currentStudy.EnrollingSites);
+                // enrolled sites                
                 var enrolledData = studyData.EnrolledData;
 
                 $.each(enrolledData, function (index, item) {
@@ -106,7 +105,6 @@
                 });
 
                 // patient progress
-                //var patientData = ctd.chartData.getPatientData(currentStudy.Patients);
                 var patientData = studyData.PatientData;
 
                 $("#patient-chart").kendoChart({
