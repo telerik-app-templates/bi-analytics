@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Executive Studies Dashboard</title>
     <meta charset="utf-8" />
@@ -12,14 +13,12 @@
     <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.mobile.flat.min.css" rel="stylesheet" />
     <link href="styles/main.css" rel="stylesheet" />
-
     <script src="cordova.js"></script>
     <script src="kendo/js/jquery.min.js"></script>
     <script src="kendo/js/kendo.all.min.js"></script>
-
 </head>
-<body>
 
+<body>
     <div data-role="layout" data-id="main">
         <div data-role="header">
             <div data-role="navbar">
@@ -28,36 +27,30 @@
         </div>
         <!-- application views will be rendered here -->
     </div>
-
     <script>
         // global namespace
         this.ctd = {};
     </script>
-
     <!-- libraries -->
-
     <!-- utilities -->
-
     <!-- local data -->
     <script src="shared/localData/studyData.js"></script>
     <script src="shared/localData/chartData.js"></script>
-
     <!-- models -->
     <script src="shared/models/studyModel.js"></script>
     <script src="shared/models/studyDataModel.js"></script>
-
     <!-- viewModels -->
     <script src="ui/home/homeViewModel.js"></script>
     <script src="ui/studiesData/studiesViewModel.js"></script>
-
     <script>
         // start app
         ctd.app = new kendo.mobile.Application(
             document.body, {
                 skin: 'flat',
                 initial: 'ui/home/home.html',
-                init: function () { }
+                init: function () {}
             });
     </script>
 </body>
+
 </html>

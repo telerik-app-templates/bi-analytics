@@ -1,16 +1,15 @@
-
 (function (ctd) {
     'use strict';
 
     // private values
     var currentStudy;
-    var viewContentHeight;    
+    var viewContentHeight;
     var ts;
 
     // vM
     ctd.studies = {
         viewModel: kendo.observable({
-            init: function () {               
+            init: function () {
 
             },
             show: function (e) {
@@ -54,7 +53,9 @@
                 });
 
                 var activeChart = $("#active-chart").data("kendoChart");
-                $("#active-chart").css({ height: height });
+                $("#active-chart").css({
+                    height: height
+                });
                 activeChart.redraw();
 
                 // enrolled sites                
@@ -146,9 +147,11 @@
                 var patientHeight = patientData.length * 30;
 
                 var patientChart = $("#patient-chart").data("kendoChart");
-                $("#patient-chart").css({ height: patientHeight });
+                $("#patient-chart").css({
+                    height: patientHeight
+                });
                 patientChart.redraw();
-                
+
             }
         })
     };
