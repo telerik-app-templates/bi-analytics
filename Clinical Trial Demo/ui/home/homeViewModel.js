@@ -3,7 +3,6 @@
 
     // private values
     var ds;
-    var dss;
 
     // vM
     ctd.home = {
@@ -20,14 +19,13 @@
                 } else {
                     ds.filter({});
                 };
-
-                //console.log(dss);
             },
             init: function (e) {
-                ds = ctd.studyModel.studiesData;
-                dss = ctd.studyDataModel.studiesData;
-                dss.read();
-
+                
+            },
+            show: function (e) {
+                ds = ctd.studyModel.studyData;	
+                
                 this.model.toggleFilter();
 
                 var viewContentHeight = e.view.content[0].clientHeight - 10;
@@ -57,19 +55,17 @@
                                 click: function (e) {
                                     e.preventDefault();
 
-                                    // this allows us to capture the respective row and dataItem based on selection
+                                    // this allows us to capture the respective row and dataItem based on selection                                    
                                     var tr = $(e.target).closest("tr");
-                                    var data = this.dataItem(tr);
-
-                                    ctd.app.navigate("ui/studiesData/studies.html?uid=" + data.uid);
+                                	var data = this.dataItem(tr);
+                                    ctd.appSettings.selectedStudy = data;
+                                    ctd.app.navigate("ui/studiesData/studies.html");
                                 }
                         }],
                             width: 95
                     }],
                     dataSource: ds,
                     sortable: true
-                        //mobile: "phone",
-                        //height: kendo.support.mobileOS.wp ? "24em" : viewContentHeight
                 });
             }
         })

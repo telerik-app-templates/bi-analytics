@@ -12,10 +12,13 @@
     <link href="kendo/styles/kendo.flat.mobile.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.mobile.flat.min.css" rel="stylesheet" />
-    <link href="styles/main.css" rel="stylesheet" />
+    <link href="styles/main.css" rel="stylesheet" />    
     <script src="cordova.js"></script>
+
     <script src="kendo/js/jquery.min.js"></script>
-    <script src="kendo/js/kendo.all.min.js"></script>
+    <script src="kendo/js/kendo.all.min.js"></script>    
+    <script src="shared/lib/everlive.all.min.js"></script>
+    <script src="shared/analytics.js"></script>
 </head>
 
 <body>
@@ -33,12 +36,9 @@
     </script>
     <!-- libraries -->
     <!-- utilities -->
-    <!-- local data -->
-    <script src="shared/localData/studyData.js"></script>
-    <script src="shared/localData/chartData.js"></script>
+    <script src="shared/appSettings.js"></script>
     <!-- models -->
     <script src="shared/models/studyModel.js"></script>
-    <script src="shared/models/studyDataModel.js"></script>
     <!-- viewModels -->
     <script src="ui/home/homeViewModel.js"></script>
     <script src="ui/studiesData/studiesViewModel.js"></script>
@@ -48,8 +48,17 @@
             document.body, {
                 skin: 'flat',
                 initial: 'ui/home/home.html',
-                init: function () {}
+                init: function () {                    
+					analytics.Start();
+                    feedback.initialize(ctd.appSettings.feedbackKey);
+                }
             });
+        
+        ctd.el = new Everlive(ctd.appSettings.elKey);
+        
+        ctd.notify = function (message, title, callback) {
+            navigator.notification.alert(message, callback, title, "Ok");
+        };
     </script>
 </body>
 

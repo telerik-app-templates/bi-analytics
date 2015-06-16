@@ -4,54 +4,38 @@ console.log("studyModel init");
     'use strict';
 
     var dataModel = {
-        id: "RecordId",
+        id: Everlive.idField,
         fields: {
-            StudyId: { type: "string", field: "StudyId/text()" },
-            Title: { type: "string", field: "Title/text()" },
-            Code: { type: "string", field: "Code/text()" },
-            Manager: { type: "string", field: "Manager/text()" },
-            Status: { type: "string", field: "Status/text()" },
-            StudyPatientCap: { type: "number", field: "StudyPatientCap/text()" },
-            StudySiteCap: { type: "number", field: "StudySiteCap/text()" },
-            StudyDuration: { type: "number", field: "StudyDuration/text()" },
-            ActiveSites: { type: "number", field: "ActiveSites/text()" },
-            EnrollingSites: { type: "number", field: "EnrollingSites/text()" },
-            Patients: { type: "number", field: "Patients/text()" },
-            ProjectStartDate: { type: "date", field: "ProjectStartDate/text()", format: "{0:dd-MMM-yyyy}" },
-            ProjectEndDate: { type: "date", field: "ProjectEndDate/text()", format: "{0:dd-MMM-yyyy}" },
-            Director: { type: "string", field: "Director/text()" },
-            Division: { type: "string", field: "Division/text()" },
-            ActivePhase: { type: "string", field: "ActivePhase/text()" },
-            StatusColor: { type: "string", field: "StatusColor/text()" },
-            Description: { type: "string", field: "Description/text()" },
-            Priority: { type: "string", field: "Priority/text()" }
+            StudyId: { type: "string", field: "StudyId" },
+            Title: { type: "string", field: "Title" },
+            Code: { type: "string", field: "Code" },
+            Manager: { type: "string", field: "Manager" },
+            Status: { type: "string", field: "Status" },
+            StudyPatientCap: { type: "number", field: "StudyPatientCap" },
+            StudySiteCap: { type: "number", field: "StudySiteCap" },
+            StudyDuration: { type: "number", field: "StudyDuration" },
+            ActiveSites: { type: "number", field: "ActiveSites" },
+            EnrollingSites: { type: "number", field: "EnrollingSites" },
+            Patients: { type: "number", field: "Patients" },
+            ProjectStartDate: { type: "date", field: "ProjectStartDate", format: "{0:dd-MMM-yyyy}" },
+            ProjectEndDate: { type: "date", field: "ProjectEndDate", format: "{0:dd-MMM-yyyy}" },
+            Director: { type: "string", field: "Director" },
+            Division: { type: "string", field: "Division" },
+            ActivePhase: { type: "string", field: "ActivePhase" },
+            StatusColor: { type: "string", field: "StatusColor" },
+            Description: { type: "string", field: "Description" },
+            Priority: { type: "string", field: "Priority" }
         }
     };
 
     ctd.studyModel = {        
-         getTrialData: function() {                        
-            var el = new Everlive('4yR5BRhoZ4gAAJXR');
-            
-            var fileId = "cd2cbdd0-f032-11e4-b971-bd4ec90a821b"; // the file identifier is retrived from the REST services
-            
-            el.Files.getDownloadUrlById(fileId)
-            .then(function(downloadUrl){
-                console.log(downloadUrl);
-                return downloadUrl;
-            },
-            function(error){
-                alert(JSON.stringify(error));
-                return null;
-            });
-        },
-        studiesData: new kendo.data.DataSource({
-            transport: {
-                read: "https://bs1.cdn.telerik.com/v1/4yR5BRhoZ4gAAJXR/cd2cbdd0-f032-11e4-b971-bd4ec90a821b"
-            },            
+        studyData: new kendo.data.DataSource({
+            type: 'everlive',
             schema: {
-                type: "xml",
-                data: "/root/study",
                 model: dataModel
+            },
+            transport: {
+                typeName: 'Study'
             }
         }),
         getStudy: function (uid) {
@@ -61,6 +45,3 @@ console.log("studyModel init");
         }
     }
 })(ctd);
-
-
-//data: ctd.studyData.data,
