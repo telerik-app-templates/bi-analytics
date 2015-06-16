@@ -8,6 +8,7 @@
     ctd.home = {
         viewModel: kendo.observable({
             toggleFilter: function (e) {
+                analytics.Monitor().TrackFeatureStart("Filter.Toggled");
                 var switchInstance = $("#study-filter-switch").data("kendoMobileSwitch");
 
                 if (switchInstance.check()) {
@@ -19,6 +20,7 @@
                 } else {
                     ds.filter({});
                 };
+                analytics.Monitor().TrackFeatureStop("Filter.Toggled");
             },
             init: function (e) {
                 

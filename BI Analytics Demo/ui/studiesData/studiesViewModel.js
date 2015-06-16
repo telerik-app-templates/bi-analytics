@@ -146,6 +146,7 @@
 
             },
             show: function (e) {
+                analytics.Monitor().TrackFeatureStart("StudyDetails.View");
                 viewContentHeight = e.view.content[0].clientHeight - 10;
                 
                 currentStudy = ctd.appSettings.selectedStudy;
@@ -172,6 +173,9 @@
                     console.log(fail);
                 });
 
+            },
+            hide: function (e) {
+                analytics.Monitor().TrackFeatureStop("StudyDetails.View");
             }
         })
     };
