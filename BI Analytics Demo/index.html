@@ -32,11 +32,15 @@
     </div>
     <script>
         // global namespace
-        this.ctd = {};
+        this.ctd = {};              
     </script>
     <!-- libraries -->
     <!-- utilities -->
     <script src="shared/appSettings.js"></script>
+    
+    <script>
+            ctd.el = new Everlive(ctd.appSettings.elKey);
+    </script>
     <!-- models -->
     <script src="shared/models/studyModel.js"></script>
     <!-- viewModels -->
@@ -53,8 +57,6 @@
                     feedback.initialize(ctd.appSettings.feedbackKey);
                 }
             });
-        
-        ctd.el = new Everlive(ctd.appSettings.elKey);
         
         ctd.notify = function (message, title, callback) {
             navigator.notification.alert(message, callback, title, "Ok");
