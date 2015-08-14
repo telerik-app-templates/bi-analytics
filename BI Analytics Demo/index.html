@@ -4,13 +4,13 @@
 <head>
     <title>Executive Studies Dashboard</title>
     <meta charset="utf-8" />
+    <link href="kendo/styles/kendo.common.core.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.common.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.dataviz.flat.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.dataviz.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.dataviz.mobile.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.flat.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.flat.mobile.min.css" rel="stylesheet" />
-    <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
     <link href="kendo/styles/kendo.mobile.flat.min.css" rel="stylesheet" />
     <link href="styles/main.css" rel="stylesheet" />    
     <script src="cordova.js"></script>
@@ -30,37 +30,56 @@
         </div>
         <!-- application views will be rendered here -->
     </div>
+    
     <script>
         // global namespace
         this.ctd = {};              
     </script>
     <!-- libraries -->
+    
     <!-- utilities -->
     <script src="shared/appSettings.js"></script>
     
     <script>
             ctd.el = new Everlive(ctd.appSettings.elKey);
     </script>
+    
     <!-- models -->
     <script src="shared/models/studyModel.js"></script>
+    
     <!-- viewModels -->
     <script src="ui/home/homeViewModel.js"></script>
     <script src="ui/studiesData/studiesViewModel.js"></script>
+    
     <script>
         // start app
         ctd.app = new kendo.mobile.Application(
             document.body, {
                 skin: 'flat',
                 initial: 'ui/home/home.html',
-                init: function () {                    
-					analytics.Start();
-                    feedback.initialize(ctd.appSettings.feedbackKey);
+                init: function () {
+
                 }
             });
         
         ctd.notify = function (message, title, callback) {
             navigator.notification.alert(message, callback, title, "Ok");
         };
+        
+        if (window.cordova) {
+            // this function is called by Cordova when the application is loaded by the device
+            document.addEventListener('deviceready', function() {
+                // hide the splash screen as soon as the app is ready. otherwise
+                // Cordova will wait 5 very long seconds to do it for you.
+                if (navigator && navigator.splashscreen) {
+                    navigator.splashscreen.hide();
+                }
+
+				analytics.Start();
+                feedback.initialize(ctd.appSettings.feedbackKey);
+
+            }, false);
+        } 
     </script>
 </body>
 

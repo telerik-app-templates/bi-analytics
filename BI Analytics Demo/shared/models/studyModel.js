@@ -1,5 +1,3 @@
-console.log("studyModel init");
-
 (function (ctd) {
     'use strict';
 

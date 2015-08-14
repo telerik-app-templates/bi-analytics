@@ -4,7 +4,8 @@
      data-layout="main"
      data-model="ctd.home.viewModel"
      data-init="ctd.home.viewModel.init"
-     data-show="ctd.home.viewModel.show">
+     data-show="ctd.home.viewModel.show" 
+     data-stretch="true">
 
     <header data-role="header">
         <div data-role="navbar">
@@ -15,6 +16,7 @@
                 data-change="ctd.home.viewModel.toggleFilter" />
         </div>
     </header>
-
-    <div id="studies-grid"></div>
+    <div id="grid-wrapper" style="height: 100%">
+        <div id="studies-grid"></div>
+    </div>
 </div>

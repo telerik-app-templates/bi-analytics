@@ -8,7 +8,7 @@
     ctd.home = {
         viewModel: kendo.observable({
             toggleFilter: function (e) {
-                analytics.Monitor().TrackFeatureStart("Filter.Toggled");
+                //analytics.Monitor().TrackFeatureStart("Filter.Toggled");
                 var switchInstance = $("#study-filter-switch").data("kendoMobileSwitch");
 
                 if (switchInstance.check()) {
@@ -19,39 +19,44 @@
                     });
                 } else {
                     ds.filter({});
-                };
-                analytics.Monitor().TrackFeatureStop("Filter.Toggled");
+                }
+                
+                //analytics.Monitor().TrackFeatureStop("Filter.Toggled");
             },
             init: function (e) {
                 
             },
             show: function (e) {
-                ds = ctd.studyModel.studyData;	
-                
-                this.model.toggleFilter();
+                var studyGrid = $("#studies-grid").data("kendoGrid");
 
-                var viewContentHeight = e.view.content[0].clientHeight - 10;
+                if (studyGrid === undefined) {
+    				ds = ctd.studyModel.studyData;	
 
-                $("#studies-grid").kendoGrid({
-                    columns: [{
+                    this.model.toggleFilter();
+
+                    var viewContentHeight = e.view.content[0].clientHeight - 10;
+                    console.log(viewContentHeight);
+                    $("#studies-grid").kendoGrid({
+                        columns: [{
                             field: "Division",
-                            title: "Division",
-                            width: 95
-                    }, {
+                            title: "Division"
+                        }, {
                             field: "StudyId",
-                            title: "Study ID",
-                            width: 95
-                    }, {
+                            title: "Study ID"
+                        }, {
                             field: "Title",
                             title: "Title",
-                    },
-                        {
+                            width: 200,
+                            minScreenWidth: 500
+                        }, {
                             field: "ActivePhase",
-                            title: "Study Phase"
-                    }, {
+                            title: "Study Phase",
+                            minScreenWidth: 750
+                        }, {
                             field: "ActiveSites",
-                            title: "Active Sites"
-                    }, {
+                            title: "Active Sites",
+                            minScreenWidth: 750
+                        }, {
                             command: [{
                                 name: "Details",
                                 click: function (e) {
@@ -59,16 +64,21 @@
 
                                     // this allows us to capture the respective row and dataItem based on selection                                    
                                     var tr = $(e.target).closest("tr");
-                                	var data = this.dataItem(tr);
+                                    var data = this.dataItem(tr);
                                     ctd.appSettings.selectedStudy = data;
                                     ctd.app.navigate("ui/studiesData/studies.html");
                                 }
-                        }],
+                            }],
                             width: 95
-                    }],
-                    dataSource: ds,
-                    sortable: true
-                });
+                        }],
+                        dataSource: ds,
+                        sortable: true,
+                        scrollable: true
+                        //mobile: "tablet"
+                    });
+                } else {
+                    ds.read();
+                }
             }
         })
     };
