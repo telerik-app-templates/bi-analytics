@@ -4,13 +4,13 @@
     // private values
     var ds;
 
-    var gridElement = $("#studies-grid");
+/*    var gridElement = $("#studies-grid");
 
     function resizeGrid() {
         $("#studies-grid").data("kendoGrid").resize();
-    }
+    }*/
 
-    $(window).resize(function(){
+/*    $(window).resize(function(){
         //resizeGrid();
         
         var gridElement = $("#studies-grid"),
@@ -22,7 +22,7 @@
             otherElementsHeight += $(this).outerHeight();
         });
 
-        gridElement.children(".k-grid-content").height(newHeight - otherElementsHeight);
+        gri*/dElement.children(".k-grid-content").height(newHeight - otherElementsHeight);
     });
     
     // vM
